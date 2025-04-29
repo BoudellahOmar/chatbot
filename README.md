@@ -1,4 +1,4 @@
-# My OpenAI Chatbot
+# My Chatbot Using API
 
 This is a simple AI chatbot built using the OpenAI GPT API. You can run it from your terminal and start chatting right away
 
