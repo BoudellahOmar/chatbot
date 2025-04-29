@@ -1,20 +1,20 @@
-# 🤖 My OpenAI Chatbot
+# My OpenAI Chatbot
 
-This is a simple AI chatbot built using the OpenAI GPT API. You can run it from your terminal and start chatting right away!
+This is a simple AI chatbot built using the OpenAI GPT API. You can run it from your terminal and start chatting right away
 
-## 🔧 Requirements
+## Requirements
 
 - Python 3.6+
 - OpenAI account + API key
 - Internet connection
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/my-openai-chatbot.git
-cd my-openai-chatbot
+git clone https://github.com/BoudellahOmar/chatbot.git
+cd chatbot
 ```
 
 2. Install dependencies:
@@ -37,7 +37,7 @@ python chatbot.py
 
 5. Start chatting! Type `exit` to quit.
 
-## 🧠 Customize Your Bot
+## Customize Your Bot
 
 Change the bot’s personality by editing this line:
 
@@ -49,6 +49,6 @@ Examples:
 - `"You are a sarcastic robot."`
 - `"You are a coding tutor for Python beginners."`
 
-## 📄 License
+## License
 
 This project is MIT licensed. Feel free to fork and improve it!
